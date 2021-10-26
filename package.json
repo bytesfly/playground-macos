@@ -2,6 +2,7 @@
   "name": "playground-macos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "scripts": {
     "dev": "craco start",
     "build": "craco build",
