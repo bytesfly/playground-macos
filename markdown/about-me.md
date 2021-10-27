@@ -1,27 +1,35 @@
-# About Me
+# 关于我
 
-## Biography
+互联网是有记忆的，我想留下一些成长的脚印。
 
-Hey there! I'm ~~a dragon lost in human world~~ now an incoming [Computer Science](https://www.bu.edu/cs/) master's student at [Boston University](https://www.bu.edu/) and an algorithm engineer intern at Multimedia Understanding (MMU) department of [Kuaishou](https://www.kuaishou.com/) ([Kwai](https://www.kwai.com/)). I'm also working as a research assistant at Peking University. Before that, I got my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
+## 简单介绍
 
-I'm trying to find a balance between research and engineering.
+2018年本科毕业于某211大学软件工程专业，在上海工作两年半时间，回家乡合肥工作至今。
 
-My research interests lie primarily in exploring the capability of machines to be continual and efficient, like meta-learning and continual learning. I'm also working on multi-modal retrieval during my internship.
+本人涉及的技术栈有点杂：
+- [x] 后端
+- [x] 微服务
+- [x] 大数据
+- [x] 机器学习
 
-I'm also learning to build machine learning softwares and systems. I'm also learning TypeScript, React, Electron and Golang.
+接触过的编程语言：
+- [x] Java
+- [x] Python
+- [x] Scala
+- [x] Golang
 
+目前用得最顺手的编程语言是`Java`。
 
-## Contact
+## 联系我
 
-Contact me by:
+- **Email：** bytesfly@foxmail.com
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com) / [xiaohan.zou@foxmail.com](mailto:xiaohan.zou@foxmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Linkedin](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@Renovamen](https://www.zhihu.com/people/chao-neng-gui-su)
-- Blog: [zxh.io](https://zxh.io)
+- **GitHub：** [https://github.com/bytesfly](https://github.com/bytesfly)
 
+- **博客园：** [https://www.cnblogs.com/bytesfly](https://www.cnblogs.com/bytesfly)
+  
+- **个人博客：** [https://bytesfly.github.io/blog](https://bytesfly.github.io/blog)
 
-## Résumé
+- **微信公众号：** 字节飞扬（扫码关注我呀）
 
-My résumé can be found here: [English](https://zxh.io/files/cv/brief/en.pdf) / [中文](https://zxh.io/files/cv/brief/cn.pdf).
+  <div ><img src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210923090812528-762106506.png" width="200" height="200" /></div>
