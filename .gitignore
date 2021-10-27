@@ -5,3 +5,9 @@ node_modules
 build
 .npmrc
 .yarnrc
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws

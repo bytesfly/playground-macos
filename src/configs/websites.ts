@@ -2,55 +2,39 @@ import { WebsitesData } from "../types";
 
 const websites: WebsitesData = {
   favorites: {
-    title: "SNS Links",
+    title: "快速访问",
     sites: [
       {
         id: "my-blog",
-        title: "Blog",
-        img: "https://zxh.io/img/avatar.jpg",
-        link: "https://zxh.io/",
+        title: "博客园",
+        img: "https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png",
+        link: "https://www.cnblogs.com/bytesfly/",
         inner: true
       },
       {
         id: "my-github",
-        title: "Github",
-        img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
-      },
-      {
-        id: "my-linkedin",
-        title: "Linkedin",
-        img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
-      },
-      {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
-      },
-      {
-        id: "my-facebook",
-        title: "Facebook",
-        img: "img/sites/facebook.svg",
-        link: "https://www.facebook.com/renovamen.zou"
-      },
-      {
-        id: "my-email",
-        title: "Email",
-        img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        title: "字节飞扬",
+        img: "https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png",
+        link: "https://bytesfly.github.io/blog",
+        inner: true
       }
     ]
   },
   freq: {
-    title: "Frequently Visited",
+    title: "最近访问",
     sites: [
       {
-        id: "github",
-        title: "Github",
-        img: "img/sites/github.svg",
-        link: "https://github.com/"
+        id: "baidu",
+        title: "百度",
+        img: "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
+        link: "https://www.baidu.com/",
+        inner: true
+      },
+      {
+        id: "deepL",
+        title: "DeepL翻译",
+        img: "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
+        link: "https://www.deepl.com/translator"
       },
       {
         id: "zhihu",
@@ -92,7 +76,7 @@ const websites: WebsitesData = {
         id: "leetcode",
         title: "LeetCode",
         img: "img/sites/leetcode.svg",
-        link: "https://leetcode.com/"
+        link: "https://leetcode-cn.com/"
       },
       {
         id: "v2ex",

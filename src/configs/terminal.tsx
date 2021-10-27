@@ -7,20 +7,16 @@ const terminal: TerminalData[] = [
     type: "folder",
     children: [
       {
-        id: "about-bio",
-        title: "bio.txt",
+        id: "about-me",
+        title: "me.txt",
         type: "file",
         content: (
           <div className="py-1">
             <div>
-              Hi! This is Xiaohan Zou, now an incoming Computer Science master's
-              student at Boston University and an algorithm engineer intern at
-              Kuaishou (Kwai). I'm also working as a research assistant at
-              Peking University.
+              2018年本科毕业于某211大学软件工程专业，在上海工作两年半时间，回家乡合肥工作至今。
             </div>
             <div className="mt-1">
-              Before that, I got my bachelor's degree in Software Engineering at
-              Tongji University.
+              互联网是有记忆的，我想留下一些成长的脚印。
             </div>
           </div>
         )
@@ -29,15 +25,13 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content:
-          "Machine Learning / Deep Learning / Continual Learning / Meta-Learning / Multi-modal Retrieval"
+        content: "微服务 / 大数据 / 机器学习 / 深度学习 / 有挑战的工作"
       },
       {
-        id: "about-who-cares",
-        title: "who-cares.txt",
+        id: "about-languages",
+        title: "languages.txt",
         type: "file",
-        content:
-          "I'm open to summer research opportunities for summer 2022 lol."
+        content: "Java / Python / Scala / Golang"
       },
       {
         id: "about-contact",
@@ -49,64 +43,33 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:bytesfly@foxmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                bytesfly@foxmail.com
               </a>{" "}
-              /{" "}
-              <a
-                className="text-blue-300"
-                href="mailto:xiaohan.zou@foxmail.com"
-                target="_blank"
-                rel="noreferrer"
-              >
-                xiaohan.zou@foxmail.com
-              </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/bytesfly"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://github.com/Renovamen
-              </a>
-            </li>
-            <li>
-              Linkedin:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
-                target="_blank"
-                rel="noreferrer"
-              >
-                https://www.linkedin.com/in/xiaohan-zou
+                https://github.com/bytesfly
               </a>
             </li>
             <li>
               Blog:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.io"
+                href="https://www.cnblogs.com/bytesfly/"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.io
-              </a>
-            </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                https://www.zhihu.com/people/chao-neng-gui-su
+                https://www.cnblogs.com/bytesfly/
               </a>
             </li>
           </ul>
@@ -116,16 +79,20 @@ const terminal: TerminalData[] = [
   },
   {
     id: "about-dream",
-    title: "my-dream.cpp",
+    title: "MyDream.java",
     type: "file",
     content: (
       <div className="py-1">
         <div>
-          <span className="text-yellow-400">while</span>(
-          <span className="text-blue-400">sleeping</span>) <span>{"{"}</span>
+          <span className="text-yellow-400">while</span> (
+          <span className="text-blue-400">working</span>) <span>{"{"}</span>
         </div>
         <div>
           <span className="text-blue-400 ml-9">money</span>
+          <span className="text-yellow-400">++</span>;
+        </div>
+        <div>
+          <span className="text-blue-400 ml-9">hapiness</span>
           <span className="text-yellow-400">++</span>;
         </div>
         <div>
