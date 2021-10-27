@@ -5,31 +5,23 @@ const websites: WebsitesData = {
     title: "快速访问",
     sites: [
       {
-        id: "my-blog",
-        title: "博客园",
-        img: "https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png",
-        link: "https://www.cnblogs.com/bytesfly/",
-        inner: true
-      },
-      {
         id: "my-github",
         title: "字节飞扬",
         img: "https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png",
         link: "https://bytesfly.github.io/blog",
         inner: true
+      },
+      {
+        id: "my-blog",
+        title: "博客园",
+        img: "https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png",
+        link: "https://www.cnblogs.com/bytesfly/"
       }
     ]
   },
   freq: {
     title: "最近访问",
     sites: [
-      {
-        id: "baidu",
-        title: "百度",
-        img: "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
-        link: "https://www.baidu.com/",
-        inner: true
-      },
       {
         id: "deepL",
         title: "DeepL翻译",

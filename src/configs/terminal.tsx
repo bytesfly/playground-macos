@@ -78,8 +78,8 @@ const terminal: TerminalData[] = [
     ]
   },
   {
-    id: "about-dream",
-    title: "MyDream.java",
+    id: "about-life",
+    title: "Life.java",
     type: "file",
     content: (
       <div className="py-1">

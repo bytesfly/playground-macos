@@ -16,7 +16,7 @@ const apps: AppsData[] = [
     id: "bear",
     title: "Bear",
     desktop: true,
-    show: true,
+    show: false,
     width: 860,
     height: 500,
     img: "img/icons/bear.png",
@@ -45,7 +45,7 @@ const apps: AppsData[] = [
     id: "terminal",
     title: "Terminal",
     desktop: true,
-    show: false,
+    show: true,
     img: "img/icons/terminal.png",
     content: <Terminal />
   }
